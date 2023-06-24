@@ -1,0 +1,17 @@
+git clone => is a command to clone the remote repository into local machine
+cd => to change the directory
+ll => to see the list files and directorys
+ls => is a command to view files and directorys in short list {only names}
+ll -a => to see the long list of files and directorys including hidden files
+git status => to see the status of the file
+git add/stage => to add files to stag/index
+git commit -m "message" filename
+git add */stage * => used to add all the files in staging/index
+git add filename filename => to add two files
+git reset filename => to reset the file from staging to working directory
+git => global information trackers
+git is made for scm(source code manager)
+git branch => to to check whether it is in main or not
+
+
+
